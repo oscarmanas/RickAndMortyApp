@@ -9,6 +9,14 @@ Welcome to the **Rick and Morty App**! This application displays a list of chara
 - Responsive design for a seamless experience on both iOS and Android devices
 - Built using **React Native** and **Expo** for cross-platform compatibility
 
+## Screenshots
+
+<p align="center">
+  <img src="./preview/capture-1.png" alt="Screen 1" width="250"/>
+  <img src="./preview/capture-3.png" alt="Screen 3" width="250"/>
+  <img src="./preview/capture-2.png" alt="Screen 2" width="250"/>
+</p>
+
 ## Installation
 
 ### Prerequisites
